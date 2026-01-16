@@ -38,7 +38,7 @@ const Navbar = () => {
                     })}
                 </ul>
                 <div className="hidden md:block">
-                    <Link href="/signin">
+                    <Link href="/contact">
                         <button data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1800" className="px-6 py-2 rounded-md bg-[#FF6C0C] text-white font-semibold hover:bg-[#e55b00] transition">Let&apos;s talk</button>
                     </Link>
                 </div>
