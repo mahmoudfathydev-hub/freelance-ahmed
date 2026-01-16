@@ -19,7 +19,7 @@ const HeroAbout = () => {
                         performance.
                     </h2>
                     <p className="text-gray-600 leading-relaxed mb-4">
-                        I specialize in building high-performance, SEO-optimized websites using modern CMS platforms. With over 8 years of technical precision and minimalist design, I help brands establish a powerful digital presence.
+                        I specialize in building high-performance, SEO-optimized websites using modern CMS platforms. With over 2.5 years of technical precision and minimalist design, I help brands establish a powerful digital presence.
                     </p>
                     <p className="text-gray-600 leading-relaxed">
                         My approach combines rigorous technical optimization with a keen eye for user experience. Whether it&apos;s custom Duda implementations or complex WordPress architecture, I focus on delivering speed, accessibility, and measurable results.

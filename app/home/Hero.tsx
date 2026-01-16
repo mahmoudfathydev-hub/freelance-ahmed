@@ -20,7 +20,7 @@ const Hero = () => {
                         <div data-aos="fade-right" className="absolute bottom-5 left-1/2 transform -translate-x-1/2 w-[90%] bg-gray-800 bg-opacity-80 text-white rounded-lg p-4 flex justify-around items-center text-sm md:text-base">
                             <div className="flex flex-col items-center gap-1">
                                 <h6 className="font-semibold">Experience</h6>
-                                <span>5+ Years</span>
+                                <span>2.5+ Years</span>
                             </div>
                             <span>|</span>
                             <div className="flex flex-col items-center gap-1">
