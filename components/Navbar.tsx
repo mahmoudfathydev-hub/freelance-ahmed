@@ -59,7 +59,7 @@ const Navbar = () => {
                         );
                     })}
                     <li>
-                        <Link href="/signin" onClick={() => setIsOpen(false)}>
+                        <Link href="/contact" onClick={() => setIsOpen(false)}>
                             <button data-aos="fade-down" data-aos-easing="linear" data-aos-duration="2000" className="px-10 py-3 rounded-md bg-[#FF6C0C] text-white font-semibold hover:bg-[#e55b00] transition">Let&apos;s talk</button>
                         </Link>
                     </li>
