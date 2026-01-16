@@ -4,6 +4,7 @@ import "./globals.css";
 import AOSWrapper from "./AOSWrapper";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import BackToTop from "@/components/BackToTop";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -22,12 +23,13 @@ export const metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="en">
+    <html lang="en" className="scroll-smooth">
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
         <AOSWrapper>
           <Navbar />
           {children}
           <Footer />
+          <BackToTop />
         </AOSWrapper>
       </body>
     </html>
