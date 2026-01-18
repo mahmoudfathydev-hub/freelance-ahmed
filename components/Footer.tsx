@@ -48,7 +48,7 @@ const Footer = () => {
                 </div>
                 <div className="border-t border-[#1a1a1a] pt-6 flex flex-col md:flex-row justify-center gap-8 items-center text-sm">
                     <p>© {new Date().getFullYear()} Ahmed Maher. All rights reserved</p>
-                    <a target="_blank" href="https://mahmoudfathydev-hub.github.io/New-Portfolio/">
+                    <a target="_blank" href="https://mahmoudfathy.vercel.app/">
                         <p className="mt-3 md:mt-0">
                             Built with <span className="text-[#FF6C0C]">Eng:Mahmoud Fathy</span>
                         </p>
